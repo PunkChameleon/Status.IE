@@ -1,4 +1,5 @@
-#Status.Modern.IE
+#Status.Modern.IE [![Build Status](https://travis-ci.org/InternetExplorer/Status.IE.png)](https://travis-ci.org/simkimsia/InternetExplorer/Status.IE)
+
 This project contains the source code and data for [status.modern.IE](https://status.modern.IE), a portal for the latest implementation status and future roadmap for interoperable web platform features in Internet Explorer. 
 
 ##Using IE Status Data
